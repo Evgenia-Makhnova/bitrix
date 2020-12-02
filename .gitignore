@@ -14,6 +14,7 @@ Thumbs.db
 bitrix/activities/
 bitrix/admin/
 bitrix/blocks/
+bitrix/.settings.php
 bitrix/fonts/
 bitrix/templates/landing24/
 bitrix/backup/
